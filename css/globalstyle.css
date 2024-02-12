@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Chewy');
+* {
+	color: #990000;
+	font-family: 'Chewy';
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background-color: #070707;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.content {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 0px;
+}
