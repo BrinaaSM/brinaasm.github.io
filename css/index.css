@@ -9,14 +9,11 @@
 	align-items: center;
 }
 
-.grid-item > p {
-	background-color: #000069;
-}
-
 .grid-item > a {
+	padding: min(5vw, 40px);
 	display: block;
 	text-decoration: none;
-	padding: 50px;
+	width: 100%;
 }
 
 .grid-container {
